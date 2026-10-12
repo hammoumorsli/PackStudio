@@ -22,7 +22,7 @@ Pack Studio supprime cette étape répétitive : vous renseignez les information
 - Python 3.8
 - PyQt5
 - [PyInstaller](https://pyinstaller.org/)
-- [Inno Setup 5.5.2](https://jrsoftware.org/isdl.php) (version ANSI)
+- [Inno Setup 7.1.0](https://jrsoftware.org/isdl.php) (version ANSI)
 
 ## Installation et utilisation
 
