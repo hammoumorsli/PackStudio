@@ -39,7 +39,7 @@ Pack Studio supprime cette étape répétitive : vous renseignez les information
    pip install PyQt5 pyinstaller
    ```
 
-3. Installez Inno Setup 5.5.2 si ce n'est pas déjà fait.
+3. Installez Inno Setup 7.1.0 si ce n'est pas déjà fait.
 
 4. Lancez l'application :
 
@@ -53,16 +53,9 @@ Pack Studio supprime cette étape répétitive : vous renseignez les information
    3. Lancez PyInstaller pour compiler le projet.
    4. Lancez Inno Setup pour créer l'installateur.
 
-## Captures d'écran
-
-> Ajoutez vos images dans un dossier `screenshots/` puis adaptez les liens ci-dessous.
-
-![Fenêtre principale](screenshots/main.png)
-
-![Génération des fichiers](screenshots/generate.png)
 
 ## Auteur
 
-**Hammou**
+**Morsli Hammou**
 
-GitHub : [github.com/VOTRE-PSEUDO](https://github.com/VOTRE-PSEUDO)
+GitHub : [hammoumorsli](https://github.com/hammoumorsli)
